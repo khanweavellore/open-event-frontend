@@ -70,6 +70,7 @@
     "ember-cli-dotenv": "^3.0.1",
     "ember-cli-eslint": "^5.1.0",
     "ember-cli-fastboot": "^2.2.2",
+    "ember-cli-github-pages": "^0.2.2",
     "ember-cli-head": "^0.4.1",
     "ember-cli-html-minifier": "^1.1.0",
     "ember-cli-htmlbars": "^5.1.2",
